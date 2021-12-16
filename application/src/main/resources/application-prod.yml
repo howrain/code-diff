@@ -1,0 +1,20 @@
+git:
+  userName: rayduan
+  password: dsfsdf2323
+  local:
+    base:
+      dir: /home/code-diff/git
+svn:
+  userName: 30001193
+  password: Asdf1234
+  local:
+    base:
+      dir: /home/code-diff/svn
+svnjira:
+  daysago: 365
+
+server:
+  port: 8085
+  servlet:
+    session:
+      timeout: 3600

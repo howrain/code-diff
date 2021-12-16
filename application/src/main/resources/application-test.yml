@@ -1,0 +1,14 @@
+git:
+  userName: rayduan
+  password: dsfsdf2323
+  local:
+    base:
+      dir: D:\git-test
+svn:
+  userName: 30001193
+  password: Asdf1234
+  local:
+    base:
+      dir: D:\svn\chinalife\bpc
+svnjira:
+  daysago: 365

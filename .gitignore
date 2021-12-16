@@ -1,0 +1,13 @@
+/.idea/
+/common/.mvn/wrapper/
+/common/.gitignore
+/common/mvnw
+/common/mvnw.cmd
+/application/application.iml
+/code-diff-parent.iml
+/common/common.iml
+/common/target/classes/com/dr/common/
+/application/target/
+/common/target/classes/META-INF/
+/common/target/
+/logs/
