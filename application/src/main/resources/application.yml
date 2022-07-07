@@ -1,7 +1,7 @@
 spring:
   profiles:
     #激活开发环境
-    active: dev
+    active: prod
   messages:
     basename: i18n/Messages,i18n/Pages
     # 通过connectProperties属性来打开mergeSql功能；慢SQL记录
