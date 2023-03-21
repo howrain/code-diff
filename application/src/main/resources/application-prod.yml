@@ -1,12 +1,12 @@
 git:
-  userName: rayduan
-  password: dsfsdf2323
+  userName: 123123
+  password: 123123
   local:
     base:
       dir: /home/code-diff/git
 svn:
-  userName: 30001193
-  password: Asdf1234
+  userName: 123123
+  password: 123123
   local:
     base:
       dir: /home/code-diff/svn
